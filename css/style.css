@@ -1,0 +1,85 @@
+
+.preview-box{
+    background-image: url('../img/preview.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.primary-button{
+	width: 150px;
+	height: 50px;
+}
+
+
+#sectionWrapper {
+    background: #f7f7f7;
+}
+
+
+#blockSearch,#blockEvents{
+    width: 350px;
+    height: 450px;
+    background-color: #ffffff;
+    box-shadow: 10px 5px 5px #cbcbcb;
+}
+
+#inputPassword6{
+    background-color: #f7f7f7;
+}
+
+
+#form-button{
+    width: 207px;
+    height: 43px;
+    background-color: #391f1f;
+    
+}
+
+
+#avatar-dates{
+    width: 90px;
+
+}
+
+a{
+    text-decoration:none;
+    color: #ff5c2e;
+}
+
+.btn-info{
+    width: 200px;
+    height: 50px;
+    background-color: #ff5c2e;
+    color: #fdfcfb;
+
+}
+
+#twiterBlock,#fbBlock{
+    width: 200px;
+    height: 50px;
+    
+    border-radius:5px;
+}
+
+
+
+#twiterBlock{
+    background-color: #3286c9;
+}
+
+#fbBlock{
+    background-color: #3e59a5;
+}
+
+a{
+    cursor: pointer;
+}
+
+#footer{
+    
+    background-color: #222222
+}
+
+.footerSocialImg{
+    width: 10px;
+}
